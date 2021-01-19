@@ -6,6 +6,8 @@
 
 Versión: 22 de Mayo de 2020
 Entrega del trabajo en: https://github.com/TiradoMartin/-Ejercicio-6
+<br/>
+Puede previsualizar el proyecto en: https://tiradomartin.github.io/-Ejercicio-6/
 
 ## Objetivos
 
